@@ -24,6 +24,31 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+/* my code starts here */
+.navbar img{
+    height: 80%;
+    width: 180px;
+    margin-left: 525px;
+}
+
+.navbar {
+  display:flex;
+  font-size: 20px;
+  text-decoration:none;
+  justify-content:space-between;
+  text-align: center;
+  width: 100%;
+  padding: 2%;
+} 
+
+.topimg{
+    width: 100%;
+    margin-left: 550px;
+    padding: 1%;
+}
+
+/* my code ends here */
+
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -104,7 +129,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background:black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
