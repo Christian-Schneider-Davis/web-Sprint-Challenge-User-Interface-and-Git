@@ -42,13 +42,16 @@ time, mark, audio, video {
   padding: 2%;
 } 
 
+
 .topimg{
     width: 100%;
     margin-left: 530px;
     padding: 1%;
 }
 
-/* my code ends here */
+.container-about-page{
+    text-align: center;
+}
 
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -83,15 +86,30 @@ html, body {
 }
 
 h1, h2, h3, h4, h5 {
-    font-size: 18px;
+    font-size: 25px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    text-align:center;
 }
 
 p {
     line-height: 1.4;
+    width: 30%;
+    text-align:center;
+   margin-left: 670px;
+
 }
 
+.lmbutton{
+    font-size: 18px;
+    border: 2px solid white;
+color; white
+    background: black;
+}
+
+/* my code ends here */
+
+/*
 .container {
     width: 800px;
     margin: 0 auto;
@@ -151,6 +169,8 @@ p {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
+
+*/
 
 footer {
     width: 100%;
