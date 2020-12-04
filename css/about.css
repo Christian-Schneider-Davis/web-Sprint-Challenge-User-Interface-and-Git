@@ -106,14 +106,15 @@ p {
 }
 
 .lmbutton{
-    font-size: 15px;
+    font-size: 18px;
     font-weight: bold;
     color: black;
     border: 2px solid black;
     background: white;
-    
     width: 150px;
     margin-left: 46%;
+    text-align: center;
+    padding: .5%;
  
 }
 
@@ -192,6 +193,8 @@ padding: 1%;
 footer {
     width: 100%;
     background: black;
+    text-align: center;
+   
 }
 
 footer nav {
