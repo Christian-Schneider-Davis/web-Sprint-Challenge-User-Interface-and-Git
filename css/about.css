@@ -98,26 +98,27 @@ h1, h2, h3, h4, h5 {
 
 p {
     line-height: 1.4;
+    text-align: center;
     width: 30%;
-    text-align:center;
-   margin-left: 670px;
-   padding: 1%;
+    margin-left: 670px;
+    padding: 1%;
 
 }
 
 .lmbutton{
-    font-size: 18px;
+    font-size: 15px;
     font-weight: bold;
     color: black;
     border: 2px solid black;
     background: white;
+    
     width: 150px;
-    text-align: center;
-    margin-left: 47.5%;
+    margin-left: 46%;
+ 
 }
 
 .pics{
-    width: 395px;
+width: 395px;
 margin-left: auto;
 margin-right: auto;
 padding: 1%;
