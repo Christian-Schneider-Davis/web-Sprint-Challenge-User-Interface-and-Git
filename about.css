@@ -24,6 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
 /* my code starts here */
 .navbar img{
     height: 80%;
@@ -41,13 +42,18 @@ time, mark, audio, video {
   padding: 2%;
 } 
 
+
 .topimg{
     width: 100%;
-    margin-left: 550px;
+    margin-left: 530px;
     padding: 1%;
 }
 
-/* my code ends here */
+/* header above */
+
+.container-about-page{
+    text-align: center;
+}
 
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -82,15 +88,46 @@ html, body {
 }
 
 h1, h2, h3, h4, h5 {
-    font-size: 18px;
+    font-size: 27px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    text-align:center;
+    font-weight: bold;
+    padding: 1%;
 }
 
 p {
     line-height: 1.4;
+    text-align: center;
+    width: 30%;
+    margin-left: 670px;
+    padding: 1%;
+
 }
 
+.lmbutton{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    border: 2px solid black;
+    background: white;
+    width: 150px;
+    margin-left: 46%;
+    text-align: center;
+    padding: .5%;
+ 
+}
+
+.pics{
+width: 395px;
+margin-left: auto;
+margin-right: auto;
+padding: 1%;
+}
+
+/* my code ends here */
+
+/*
 .container {
     width: 800px;
     margin: 0 auto;
@@ -150,6 +187,8 @@ p {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
+
+*/
 
 footer {
     width: 100%;
