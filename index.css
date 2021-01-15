@@ -24,6 +24,8 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
+
+
 /* my code starts here */
 .navbar img{
     height: 80%;
@@ -36,10 +38,12 @@ time, mark, audio, video {
   font-size: 20px;
   text-decoration:none;
   justify-content:space-between;
-  text-align: center;
+  /* text-align: center; */
   width: 100%;
   padding: 2%;
+
 } 
+
 
 .topimg{
     width: 100%;
